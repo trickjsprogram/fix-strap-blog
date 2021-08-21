@@ -1,0 +1,49 @@
+{
+  "name": "sport-news",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.15",
+    "@chakra-ui/react": "^1.6.6",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@fontsource/inter": "^4.5.0",
+    "@fontsource/open-sans": "^4.5.0",
+    "@fontsource/poppins": "^4.5.0",
+    "@fontsource/questrial": "^4.5.0",
+    "@fontsource/raleway": "^4.5.0",
+    "cookie": "^0.4.1",
+    "framer-motion": "^4.1.17",
+    "moment": "^2.29.1",
+    "next": "10.2.0",
+    "prop-types": "^15.7.2",
+    "qs": "^6.10.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-toastify": "^7.0.4",
+    "typeface-akronim": "^1.1.13",
+    "typeface-poppins": "^1.1.13",
+    "typeface-raleway": "^1.1.13",
+    "typeface-roboto": "^1.1.13"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-wesbos": "^1.0.1",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.3.2"
+  }
+}
